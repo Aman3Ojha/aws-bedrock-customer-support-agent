@@ -1,0 +1,9 @@
+﻿venv/
+__pycache__/
+*.pyc
+*.pyo
+agentcore_config.json
+.DS_Store
+Thumbs.db
+desktop.ini
+*.zip
