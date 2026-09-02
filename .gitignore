@@ -7,3 +7,9 @@ agentcore_config.json
 Thumbs.db
 desktop.ini
 *.zip
+starter/venv/
+starter/agentcore_config.json
+starter/__pycache__/
+starter/eval-config.json
+starter/inference-config.json
+starter/output-config.json
